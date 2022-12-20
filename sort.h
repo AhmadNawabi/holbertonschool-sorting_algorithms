@@ -1,5 +1,8 @@
 #ifndef SORT_H
 #define SORT_H
+
+#include <print_array.c>
+#include <print_list.c>
 #include <stdlib.h>
 #include <stdio.h>
 #include "sort.h"
